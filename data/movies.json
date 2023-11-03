@@ -1,1 +1,42 @@
-[{"id":1,"name":"Die Hard 2","released":1998,"duration":90},{"id":4,"name":"Test","duration":80,"released":1990},{"id":5,"name":"Testn2","duration":90,"released":1992},{"id":6}]
+[{
+    "name": "Action Movie 1",
+    "duration": 122,
+    "description": "Action packed movie",
+    "ratings": 3.5,
+    "totalRating": 349,
+    "releaseYear": 2012,
+    "genres": ["action", "comedy"],
+    "directors": ["mouse"],
+    "actors": ["cat", "dog"],
+    "price": 20,
+    "coverImage": "image.jpg",
+    "releaseDate": "20-9-2012"
+},
+{
+    "name": "Action Movie 2",
+    "duration": 123,
+    "description": "Action packed movie",
+    "ratings": 3.8,
+    "totalRating": 350,
+    "releaseYear": 2013,
+    "genres": ["action", "comedy"],
+    "directors": ["dog"],
+    "actors": ["cat", "mouse"],
+    "price": 25,
+    "coverImage": "image.jpg",
+    "releaseDate": "20-9-2013"
+},
+{
+    "name": "Action Movie 3",
+    "duration": 128,
+    "description": "Action packed movie",
+    "ratings": 3.9,
+    "totalRating": 302,
+    "releaseYear": 2008,
+    "genres": ["action", "comedy"],
+    "directors": ["cat"],
+    "actors": ["mouse", "dog"],
+    "price": 28,
+    "coverImage": "image.jpg",
+    "releaseDate": "20-9-2008"
+}]
